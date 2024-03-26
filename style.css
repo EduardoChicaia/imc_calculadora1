@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 
+    0;
+}
+.principal {
+    background-color: yellowgreen;
+    width: 300px;
+    height: 400px;
+    margin: auto;
+}
+.principal h1 {
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    border-bottom: 2px solid black;
+}
+.secundario{
+    padding: 10px;
+    text-align: center;
+}
+.principal input {
+    height: 24px;
+}
+.terceario {
+    padding: 10px;
+    text-align: center;
+}
+.quarta {
+    padding: 10px;
+    text-align: center;
+}
+#calcular {
+    padding: 10px;
+    text-align: center;
+}
+#calcular button{
+    width: 250px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: rgba(23, 22, 22, 0.62);
+    color: white;
+    font-weight: 600;
+}
+.resulta {
+    width: 250px;
+    height: 110px;
+    background-color: black;
+    margin: auto;
+    color: white;
+    font-weight: 500;
+    text-align: center;
+    text-indent: 3px;
+    padding: 10px;
+    line-height: 2;
+    font-size: 19px;
+    font-style: italic;
+}
